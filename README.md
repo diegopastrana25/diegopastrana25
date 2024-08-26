@@ -1,8 +1,8 @@
 # Greetings, I´m Diego :)
 
-![](https://komarev.com/ghpvc/?username=DiegoPastrana3D)
+![](https://komarev.com/ghpvc/?username=DiegoPastrana25)
 
-![GitHub followers](https://img.shields.io/github/followers/DiegoPastrana3D)
+![GitHub followers](https://img.shields.io/github/followers/DiegoPastrana25)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48D93C&random=false&width=485&height=58&lines=Network+Computer+Systems+Administration)](https://git.io/typing-svg)
 
@@ -14,22 +14,22 @@
 
 **🪛I enjoy repairing and assembling PCs, which is a hobby that I usually practice by helping friends and acquaintances.**
 
-<img align="right" width=520px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
+<img align="right" width=520px height=300px alt="" src="https://github.com/DiegoPastrana25/DiegoPastrana25/assets/157081686/84e9e40e-37f0-45ce-9bec-a0ce781c59af" />
 
 ### Some of my repositories (not forks):
 
-- **[My 3D Models Repository](https://github.com/DiegoPastrana3D/3DModels/releases)**
-- **[My Render Repository](https://github.com/DiegoPastrana3D/Renders/releases)**
-- **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana3D/IntroductionToPacketTracerReports)**
-- **[My Operating System Deployment Repository](https://github.com/DiegoPastrana3D/OperatingSystemDeploymentClasses)**
-- **[My Markup Language Classes Repository](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
-- **[My Hardware Classes Repository](https://github.com/DiegoPastrana3D/HardwareClasses)**
-- **[My Database Classes Repository](https://github.com/DiegoPastrana3D/DatabaseManagementClasses)**
-- **[My Network Planning And Administration Classes Repository](https://github.com/DiegoPastrana3D/NetworkPlanningAndAdministrationClasses)**
-- **[RebootExplorer](https://github.com/DiegoPastrana3D/RebootExplorer/tree/main)**
-- **[GPT](https://github.com/DiegoPastrana3D/GPT)**
+- **[My 25 Models Repository](https://github.com/DiegoPastrana25/25Models/releases)**
+- **[My Render Repository](https://github.com/DiegoPastrana25/Renders/releases)**
+- **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana25/IntroductionToPacketTracerReports)**
+- **[My Operating System Deployment Repository](https://github.com/DiegoPastrana25/OperatingSystemDeploymentClasses)**
+- **[My Markup Language Classes Repository](https://github.com/DiegoPastrana25/MarkupLanguageClasses)**
+- **[My Hardware Classes Repository](https://github.com/DiegoPastrana25/HardwareClasses)**
+- **[My Database Classes Repository](https://github.com/DiegoPastrana25/DatabaseManagementClasses)**
+- **[My Network Planning And Administration Classes Repository](https://github.com/DiegoPastrana25/NetworkPlanningAndAdministrationClasses)**
+- **[RebootExplorer](https://github.com/DiegoPastrana25/RebootExplorer/tree/main)**
+- **[GPT](https://github.com/DiegoPastrana25/GPT)**
 
-<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana3D/DiegoPastrana3D/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
+<img align="right" width=300px height=300px alt="" src="https://github.com/DiegoPastrana25/DiegoPastrana25/assets/157081686/b1ecd020-913c-4f3e-a1fb-6442f34f6301" />
 
 ### The programs/tools that I use:
 
