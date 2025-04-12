@@ -18,16 +18,15 @@
 
 ### Some of my repositories (not forks):
 
-- **[My 3D Models Repository](https://github.com/DiegoPastrana3D/3DModels/releases)**
-- **[My Render Repository](https://github.com/DiegoPastrana3D/Renders/releases)**
-- **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana3D/IntroductionToPacketTracerReports)**
-- **[My Operating System Deployment Repository](https://github.com/DiegoPastrana3D/OperatingSystemDeploymentClasses)**
-- **[My Markup Language Classes Repository](https://github.com/DiegoPastrana3D/MarkupLanguageClasses)**
-- **[My Hardware Classes Repository](https://github.com/DiegoPastrana3D/HardwareClasses)**
-- **[My Database Classes Repository](https://github.com/DiegoPastrana3D/DatabaseManagementClasses)**
-- **[My Network Planning And Administration Classes Repository](https://github.com/DiegoPastrana3D/NetworkPlanningAndAdministrationClasses)**
-- **[RebootExplorer](https://github.com/DiegoPastrana3D/RebootExplorer/tree/main)**
-- **[GPT](https://github.com/DiegoPastrana3D/GPT)**
+- **[My 3D Models Repository](https://github.com/DiegoPastrana25/3DModels/releases)**
+- **[My Render Repository](https://github.com/DiegoPastrana25/Renders/releases)**
+- **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana25/IntroductionToPacketTracerReports)**
+- **[My Operating System Deployment Repository](https://github.com/DiegoPastrana25/OperatingSystemDeploymentClasses)**
+- **[My Markup Language Classes Repository](https://github.com/DiegoPastrana25/MarkupLanguageClasses)**
+- **[My Hardware Classes Repository](https://github.com/DiegoPastrana25/HardwareClasses)**
+- **[My Database Classes Repository](https://github.com/DiegoPastrana25/DatabaseManagementClasses)**
+- **[My Network Planning And Administration Classes Repository](https://github.com/DiegoPastrana25/NetworkPlanningAndAdministrationClasses)**
+- **[RebootExplorer](https://github.com/DiegoPastrana25/RebootExplorer/tree/main)**
 
 
 
