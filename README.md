@@ -61,5 +61,4 @@
 
 - **[LinkedIn](https://www.linkedin.com/in/diego-p-39b6802ab/)**
 - **[ArtStation](https://www.artstation.com/diegopastrana)**
-- **[Thingiverse](https://www.thingiverse.com/diegopastrana/designs)**
 - **[YouTube](https://www.youtube.com/channel/UCWP-nYMKhNtOUQhX37dBJ-A)**
