@@ -14,12 +14,12 @@
 
 **🪛I enjoy repairing and assembling PCs, which is a hobby that I usually practice by helping friends and acquaintances.**
 
+**🐧And I really enjoy using Linux**
+
 
 
 ### Some of my repositories (not forks):
 
-- **[My 3D Models Repository](https://github.com/DiegoPastrana25/3DModels/releases)**
-- **[My Render Repository](https://github.com/DiegoPastrana25/Renders/releases)**
 - **[My Introduction to Packet Tracer reports Repository](https://github.com/DiegoPastrana25/IntroductionToPacketTracerReports)**
 - **[My Operating System Deployment Repository](https://github.com/DiegoPastrana25/OperatingSystemDeploymentClasses)**
 - **[My Markup Language Classes Repository](https://github.com/DiegoPastrana25/MarkupLanguageClasses)**
