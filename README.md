@@ -1,4 +1,5 @@
 # Greetings, I´m Diego :)
+**(I'm still in the process of updating my profile with more projects and things I've learned)**
 
 ![](https://komarev.com/ghpvc/?username=DiegoPastrana25)
 
